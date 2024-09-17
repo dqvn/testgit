@@ -4,5 +4,5 @@ test 03 local
 teeeeeee not allow push 
 add new line after disable push
 
-Alice changes new
+Alice changes newww
 Bob's changes
